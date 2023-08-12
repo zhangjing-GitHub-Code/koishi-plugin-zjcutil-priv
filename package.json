@@ -1,0 +1,21 @@
+{
+  "name": "@jing-2hang1105/koishi-plugin-zjcutil",
+  "description": "jing_2hang1105 self use admin utils",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "scripts": {},
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "peerDependencies": {
+    "koishi": "^4.14.1"
+  }
+}
